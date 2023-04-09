@@ -1,10 +1,59 @@
 {
   "easter-egg.hatched-message": "Um novo ... espere um minuto, um coelho saiu do ovo?!",
-  "easter-egg.name": "Easter Egg",
+  "easter-egg.name": "Ovo da Páscoa",
   "excalibur.description": "Ela dá esperanças ao ser empunhada.",
   "excalibur.name": "Excalibur",
-  "lost-message": "Eita, parece que você se perdeu nas  profundezas da floresta...",
-  "woods-obelisk.description": "Descrição do obelisco da floresta",
-  "woods-obelisk.name": "Obelisco da floresta",
-  "woods-obelisk.wizard-mail": "Eu podia sentir sua presença nas profundezas da floresta. ^ Há uma magia forte e antiga enterrada dentro das raízes das árvores e da terra. ^ É difícil, mas com os ingredientes certos eu deveria ser capaz de manifestar um obelisco que usa essa magia para permitir que você acesse muito mais fundo na floresta. ^ Venha para a minha torre quando estiver pronto.^   -M. Rasmodius, Mago"
+  "excalibur.nope-message": "It won't budge.",
+  "lost-message": "Eita, parece que você se perdeu na Floresta Profunda...",
+  "healing-fountain.drink-message": "You feel refreshed, energized, and somehow lucky.",
+  "woods-obelisk.description": "Teleporta você para a Floresta Profunda",
+  "woods-obelisk.name": "Obelisco da Floresta Profunda",
+  "woods-obelisk.wizard-mail": "Eu podia sentir sua presença nas profundezas da floresta. ^ Há uma magia forte e antiga enterrada dentro das raízes das árvores e da terra. ^ É difícil, mas com os ingredientes certos eu deveria ser capaz de produzir um obelisco que usa essa magia para permitir que você acesse muito mais fundo na floresta. ^ Venha para a minha torre quando seu espírito estiver pronto.^   -M. Rasmodeus, Mago"
+
+  "messagebox.ok": "Ok",
+
+  "maxhouse.puzzle.nope": "Você escuta um clique, mas nada acontece...",
+
+  "maxhouse.stuff.question": "Muitas e muitas coisas.",
+  "maxhouse.stuff.answer.search": "Procure entre as coisas",
+  "maxhouse.stuff.answer.nevermind": "Nada.",
+  "maxhouse.stuff.nothing": "Você não encontrou nada imediatamente útil. Talvez, em uma próxima tentativa...",
+
+  "maxhouse.books.question": "Uma coleção de livros.",
+  "maxhouse.books.answer.read": "Leia um livro.",
+  "maxhouse.books.answer.nevermind": "Nada.",
+  "maxhouse.books.interesting": "ESta foi uma leitura interessante!",
+
+  "maxhouse.shop.empty": "A loja está temporariamente sem estoque. Volte mais tarde.",
+  "maxhouse.quests.empty": "No momento, não há tarefas ou missões abertas. Volte mais tarde.",
+
+  "sign.text.welcome": "Você está entrando na Floresta Profunda. Não se aventure fundo demais se você não estiver preparado. Muitos, antes de você, se perderam ou pior. Você foi avisado.",
+
+  "sign.text.random.1": "Caramujos nesta área.",
+  "sign.text.random.2": "Se você for muito cuidadoso e muito sortudo, você poderá encontrar um unicórnio em um dia de sol.",
+  "sign.text.random.3": "Em algum lugar nesta floresta há uma espada em uma pedra. Está lá há séculos. Ninguém parece ser capaz de retirá-la dali.",
+  "sign.text.random.4": "Eu não consigo encontrar o caminho de volta. Talvez se eu colocar sinais, isso possa me ajudar. Você também está perdido?",
+  "sign.text.random.5": "Não ligue para os arbustos de espinhos. Eu acho que eles são indestrutíveis. Precisaria de uma bomba para acabar com eles, mas quem traz bombas a uma floresta?...",
+  "sign.text.random.6": "Estas matas são assombradas. Eu juro que eu vi um fantasma na outra noite.",
+  "sign.text.random.7": "Encontrei uma casa feita de comida. Bem no meio da floresta! Joguei tudo no chão, me rendeu uma boa semana.",
+  "sign.text.random.8": "NÃO para os planos da Rodovia Joja na floresta! PARE a destruição!",
+
+  "sign.text.item-marker": "Deixei este sinal para companheiros andarilhos. A idade chegou e agora minha memória me falha, mas por aqui, em algum lugar, eu enterrei {item}.",
+  "sign.text.clearing-marker": "Eu vi uma clareira a {NSWE} daqui. Não me lembro a que distância. Tenha cuidado, amigo.",
+  "sign.text.mystical-force-marker": "Há uma força mística dentro desta floresta. Eu não fui capaz de encontrar a fonte, mas nessa área, ela é particularmente forte. Eu estou marcando esta localização para que outra pessoa, com mais sorte que eu, possa procurá-la.",
+
+  "bigsign.message": "Bem-vindos à Floresta Profunda! Onde a Natureza e a Magia existem em harmonia!^== Caçada de monstros para toda a família ==^== Trilhas para todos os níveis de dificuldade ==^== Aventura e diversão para todos ==^^Atenção: Muito perigoso. Não nos responsabilizamos por aventureiros mortos, amaldiçoados ou perdidos.",
+
+  "sign.NSWE.north": "Norte",
+  "sign.NSWE.south": "Sul",
+  "sign.NSWE.west": "Oeste",
+  "sign.NSWE.east": "Leste",
+
+  "orb-stone.question": "Você se sente atraído por esta pedra. Você não sabe por quê. Tem coragem de tocá-la?",
+  "orb-stone.yes": "Sim!",
+  "orb-stone.no": "Aaahh, melhor não.",
+  "orb-stone.touch-message": "Você cuidadosamente toca a pedra. Você sente uma vibração constante, mas nada acontece.",
+  "orb-stone.touch-message-no-orb": "Você cuidadosamente toca a pedra. Parece que a pedra deseja alguma coisa. É uma sensação estranha.",
+
+  "cave-entrance.caved-in.message": "A entrada desabou. Não perece ter outra forma de entrar."
 }
